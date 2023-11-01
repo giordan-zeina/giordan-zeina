@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Giordan</h1>
 <h3 align="center">I am a student at ST. Mother Teresa High School</h3>
 
