@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giordan-zeina&label=Profile%20views&color=0e75b6&style=flat" alt="giordan-zeina" /> </p>
 
-📫 How to reach me **giordan.zeina@mths.ca**
-
-<h3 align="left">Connect with me:</h3> 📫 How to reach me **giordan.zeina@mths.ca**
+<h3 align="left">Connect with me:</h3> giordan.zeina@mths.ca
 <p align="left">
 </p>
 
